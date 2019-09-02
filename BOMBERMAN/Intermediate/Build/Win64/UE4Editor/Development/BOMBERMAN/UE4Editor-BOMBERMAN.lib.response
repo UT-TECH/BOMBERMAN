@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BOMBERMAN.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UTKARSH\UNREAL PROJECTS\Bomberman\BOMBERMAN\Intermediate\Build\Win64\BOMBERMANEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UTKARSH\UNREAL PROJECTS\Bomberman\BOMBERMAN\Intermediate\Build\Win64\UE4Editor\Development\BOMBERMAN\BOMBERMAN.cpp.obj"
+"F:\UTKARSH\UNREAL PROJECTS\Bomberman\BOMBERMAN\Intermediate\Build\Win64\UE4Editor\Development\BOMBERMAN\BOMBERMANCharacter.cpp.obj"
+"F:\UTKARSH\UNREAL PROJECTS\Bomberman\BOMBERMAN\Intermediate\Build\Win64\UE4Editor\Development\BOMBERMAN\BOMBERMANGameMode.cpp.obj"
+"F:\UTKARSH\UNREAL PROJECTS\Bomberman\BOMBERMAN\Intermediate\Build\Win64\UE4Editor\Development\BOMBERMAN\BOMBERMAN.init.gen.cpp.obj"
+"F:\UTKARSH\UNREAL PROJECTS\Bomberman\BOMBERMAN\Intermediate\Build\Win64\UE4Editor\Development\BOMBERMAN\BOMBERMANCharacter.gen.cpp.obj"
+"F:\UTKARSH\UNREAL PROJECTS\Bomberman\BOMBERMAN\Intermediate\Build\Win64\UE4Editor\Development\BOMBERMAN\BOMBERMANGameMode.gen.cpp.obj"
+"F:\UTKARSH\UNREAL PROJECTS\Bomberman\BOMBERMAN\Intermediate\Build\Win64\UE4Editor\Development\BOMBERMAN\PCLaunch.rc.res"
+/OUT:"F:\UTKARSH\UNREAL PROJECTS\Bomberman\BOMBERMAN\Intermediate\Build\Win64\UE4Editor\Development\BOMBERMAN\UE4Editor-BOMBERMAN.lib"

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BOMBERMAN.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2B68A9A1-1614-4E3C-A5EA-6DAE7BDA50FB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BOMBERMAN.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BOMBERMANEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FC8CEF8C-3410-4339-BC14-112AC2B16AB8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BOMBERMAN">
+      <UniqueIdentifier>{3E6388E4-33FF-41A1-8283-57D276405D2B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BOMBERMAN\BOMBERMAN.Build.cs">
+      <Filter>Source\BOMBERMAN</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BOMBERMAN\BOMBERMAN.cpp">
+      <Filter>Source\BOMBERMAN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BOMBERMAN\BOMBERMAN.h">
+      <Filter>Source\BOMBERMAN</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BOMBERMAN\BOMBERMANCharacter.cpp">
+      <Filter>Source\BOMBERMAN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BOMBERMAN\BOMBERMANCharacter.h">
+      <Filter>Source\BOMBERMAN</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BOMBERMAN\BOMBERMANGameMode.cpp">
+      <Filter>Source\BOMBERMAN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BOMBERMAN\BOMBERMANGameMode.h">
+      <Filter>Source\BOMBERMAN</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
