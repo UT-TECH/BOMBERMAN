@@ -4093,3 +4093,357 @@ Make sure 'NPC_AI_BP' has been compiled for  Get PatrolPoints
 [2019.09.04-15.55.41:377][754]LogNavigationPoint: PostEditMove Clear paths rebuilt
 [2019.09.04-15.55.42:924][792]LogNavigationPoint: PostEditMove Clear paths rebuilt
 [2019.09.04-15.55.54:765][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-15.56.40:307][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_01" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Autosaves/Game/Map_01_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.04-15.56.41:849][860]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Map_01_Auto621F3A84C44B05CCDCC969E89C48FC2D0.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Autosaves/Game/Map_01_Auto6.umap'
+[2019.09.04-15.56.41:856][860]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map_01' took 1.627
+[2019.09.04-15.56.41:857][860]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.627
+[2019.09.04-15.56.41:864][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/Bomerman] ([1] browsable assets)...
+[2019.09.04-15.56.41:913][860]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/Bomerman.Bomerman]
+[2019.09.04-15.56.41:913][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/Bomerman]
+[2019.09.04-15.56.42:009][860]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Bomerman_Auto6642DBC1E49F7585A285D6790276D2F14.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Bomerman_Auto6.uasset'
+[2019.09.04-15.56.42:011][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/AI_Player_01] ([1] browsable assets)...
+[2019.09.04-15.56.42:050][860]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/AI_Player_01.AI_Player_01]
+[2019.09.04-15.56.42:050][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/AI_Player_01]
+[2019.09.04-15.56.42:162][860]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/AI_Player_01_Auto6FB3B886B42B4C19856AC8F821421C202.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/AI_Player_01_Auto6.uasset'
+[2019.09.04-15.56.42:163][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/Hex_red] ([1] browsable assets)...
+[2019.09.04-15.56.42:204][860]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/Hex_red.Hex_red]
+[2019.09.04-15.56.42:204][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/Hex_red]
+[2019.09.04-15.56.42:245][860]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Hex_red_Auto6B8767A5244BD01EADCAE4698C1C9D487.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Autosaves/Game/StarterContent/Materials/Hex_red_Auto6.uasset'
+[2019.09.04-15.56.42:247][860]LogFileHelpers: Auto-saving content packages took 0.385
+[2019.09.04-15.58.55:145][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_01" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.04-15.58.55:709][377]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Map_017123D7ED43F9A4D645B40F9BB00C370D.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01.umap'
+[2019.09.04-15.58.55:810][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_01_BuiltData" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01_BuiltData.uasset" SILENT=true
+[2019.09.04-15.58.56:373][377]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Map_01_BuiltDataD13695AA45F883CC6D7723AAEBDBD3AE.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01_BuiltData.uasset'
+[2019.09.04-15.59.07:919][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.00.10:020][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Bomerman" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/Bomerman.uasset" SILENT=true
+[2019.09.04-16.00.10:062][736]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Bomerman166EE4584D7C322EBA1123BEA07F3195.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/Bomerman.uasset'
+[2019.09.04-16.00.11:375][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/AI_Player_01" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/AI_Player_01.uasset" SILENT=true
+[2019.09.04-16.00.11:429][793]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/AI_Player_01FF1AFBBB4B695D635EC1A9B9DB30B0C5.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/AI_Player_01.uasset'
+[2019.09.04-16.00.14:320][908]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.00.36:171][864]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.00.36:204][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.00.36:205][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.00.36:205][864]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:00:36 AM)
+[2019.09.04-16.00.36:205][864]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.00.36:255][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049390s)
+[2019.09.04-16.00.36:258][864]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.00.36:259][864]LogPlayLevel: PIE: World Init took: (0.002979s)
+[2019.09.04-16.00.36:259][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.054008s)
+[2019.09.04-16.00.36:322][864]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.00.36:365][864]LogInit: FAudioDevice initialized.
+[2019.09.04-16.00.36:398][864]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.00.36:405][864]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.30.36
+[2019.09.04-16.00.36:407][864]LogWorld: Bringing up level for play took: 0.007623
+[2019.09.04-16.00.36:421][864]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 0.116
+[2019.09.04-16.00.36:422][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.01.03:210][813]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.01.03:212][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.01.03:274][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.01.03:274][813]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.01.03:318][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.01.03:372][814]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.09.04-16.01.18:939][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.01.53:221][769]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.01.55:492][828]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.01.55:520][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.01.55:521][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.01.55:522][828]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:01:55 AM)
+[2019.09.04-16.01.55:522][828]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.01.55:574][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050934s)
+[2019.09.04-16.01.55:576][828]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.01.55:577][828]LogPlayLevel: PIE: World Init took: (0.002551s)
+[2019.09.04-16.01.55:577][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.054731s)
+[2019.09.04-16.01.55:631][828]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.01.55:654][828]LogInit: FAudioDevice initialized.
+[2019.09.04-16.01.55:690][828]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.01.55:697][828]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.31.55
+[2019.09.04-16.01.55:699][828]LogWorld: Bringing up level for play took: 0.007798
+[2019.09.04-16.01.55:714][828]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 -0.592
+[2019.09.04-16.01.55:714][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.01:826][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.01:828][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.02.01:892][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.02.01:893][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.01:937][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.02.01:974][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.09.04-16.02.11:860][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.02.11:976][316]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.02.12:003][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.12:004][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.02.12:005][316]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:02:12 AM)
+[2019.09.04-16.02.12:005][316]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.02.12:061][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055359s)
+[2019.09.04-16.02.12:063][316]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.02.12:064][316]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2019.09.04-16.02.12:064][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.058260s)
+[2019.09.04-16.02.12:118][316]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.02.12:147][316]LogInit: FAudioDevice initialized.
+[2019.09.04-16.02.12:180][316]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.02.12:185][316]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.32.12
+[2019.09.04-16.02.12:186][316]LogWorld: Bringing up level for play took: 0.005067
+[2019.09.04-16.02.12:199][316]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 -0.106
+[2019.09.04-16.02.12:200][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.22:275][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.22:275][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.02.22:340][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.02.22:340][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.22:384][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.02.22:435][669]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.09.04-16.02.23:369][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.02.31:490][ 53]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.02.33:489][100]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.02.33:520][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.33:521][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.02.33:521][100]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:02:33 AM)
+[2019.09.04-16.02.33:522][100]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.02.33:574][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050895s)
+[2019.09.04-16.02.33:575][100]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.02.33:576][100]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2019.09.04-16.02.33:576][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.054113s)
+[2019.09.04-16.02.33:629][100]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.02.33:652][100]LogInit: FAudioDevice initialized.
+[2019.09.04-16.02.33:691][100]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.02.33:695][100]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.32.33
+[2019.09.04-16.02.33:696][100]LogWorld: Bringing up level for play took: 0.004883
+[2019.09.04-16.02.33:711][100]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 -0.595
+[2019.09.04-16.02.33:711][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.38:596][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.38:598][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.02.38:667][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.02.38:667][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.38:719][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.02.38:746][274]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.09.04-16.02.39:454][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.02.49:812][703]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.02.52:113][769]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.02.52:144][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.52:145][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.02.52:145][769]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:02:52 AM)
+[2019.09.04-16.02.52:146][769]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.02.52:192][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045574s)
+[2019.09.04-16.02.52:193][769]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.02.52:194][769]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2019.09.04-16.02.52:194][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.048012s)
+[2019.09.04-16.02.52:248][769]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.02.52:273][769]LogInit: FAudioDevice initialized.
+[2019.09.04-16.02.52:306][769]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.02.52:311][769]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.32.52
+[2019.09.04-16.02.52:312][769]LogWorld: Bringing up level for play took: 0.004768
+[2019.09.04-16.02.52:326][769]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 0.02
+[2019.09.04-16.02.52:326][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.59:774][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.59:776][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.02.59:841][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.02.59:841][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.02.59:891][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.02.59:919][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.09.04-16.03.00:948][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.04.09:013][571]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.04.11:792][635]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.04.11:826][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.04.11:827][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.04.11:827][635]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:04:11 AM)
+[2019.09.04-16.04.11:828][635]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.04.11:876][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047570s)
+[2019.09.04-16.04.11:877][635]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.04.11:877][635]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2019.09.04-16.04.11:878][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.050309s)
+[2019.09.04-16.04.11:932][635]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.04.11:955][635]LogInit: FAudioDevice initialized.
+[2019.09.04-16.04.11:991][635]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.04.11:996][635]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.34.11
+[2019.09.04-16.04.11:997][635]LogWorld: Bringing up level for play took: 0.005656
+[2019.09.04-16.04.12:010][635]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 -0.295
+[2019.09.04-16.04.12:011][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.04.17:720][835]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.04.17:721][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.04.17:791][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.04.17:792][835]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.04.17:845][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.04.17:857][836]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.09.04-16.04.18:643][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.04.44:620][501]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.04.46:790][561]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.04.46:824][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.04.46:825][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.04.46:826][561]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:04:46 AM)
+[2019.09.04-16.04.46:826][561]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.04.46:875][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049783s)
+[2019.09.04-16.04.46:876][561]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.04.46:877][561]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2019.09.04-16.04.46:877][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.052360s)
+[2019.09.04-16.04.46:933][561]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.04.46:957][561]LogInit: FAudioDevice initialized.
+[2019.09.04-16.04.46:992][561]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.04.46:996][561]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.34.46
+[2019.09.04-16.04.46:997][561]LogWorld: Bringing up level for play took: 0.004891
+[2019.09.04-16.04.47:010][561]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 0.705
+[2019.09.04-16.04.47:011][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.05.04:801][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.05.04:801][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.05.04:868][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.05.04:868][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.05.04:915][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.05.04:970][176]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.09.04-16.05.08:560][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.05.30:156][240]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.05.32:103][292]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.05.32:134][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.05.32:134][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.05.32:134][292]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:05:32 AM)
+[2019.09.04-16.05.32:136][292]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.05.32:191][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054814s)
+[2019.09.04-16.05.32:192][292]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.05.32:193][292]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2019.09.04-16.05.32:193][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.057534s)
+[2019.09.04-16.05.32:255][292]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.05.32:278][292]LogInit: FAudioDevice initialized.
+[2019.09.04-16.05.32:310][292]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.05.32:314][292]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.35.32
+[2019.09.04-16.05.32:315][292]LogWorld: Bringing up level for play took: 0.004707
+[2019.09.04-16.05.32:328][292]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 0.023
+[2019.09.04-16.05.32:328][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.05.42:831][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.05.42:832][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.05.42:895][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.05.42:895][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.05.42:941][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.05.42:972][669]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.09.04-16.05.45:916][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.05.58:012][266]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.05.59:760][308]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.05.59:795][308]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.05.59:796][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.05.59:796][308]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:05:59 AM)
+[2019.09.04-16.05.59:796][308]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.05.59:848][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051495s)
+[2019.09.04-16.05.59:851][308]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.05.59:851][308]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2019.09.04-16.05.59:852][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.054618s)
+[2019.09.04-16.05.59:904][308]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.05.59:927][308]LogInit: FAudioDevice initialized.
+[2019.09.04-16.05.59:965][308]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.05.59:972][308]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.35.59
+[2019.09.04-16.05.59:973][308]LogWorld: Bringing up level for play took: 0.007187
+[2019.09.04-16.05.59:987][308]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 -0.319
+[2019.09.04-16.05.59:987][308]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.06.39:738][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.06.39:894][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_01" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.04-16.06.40:938][703]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Map_0178193D0741616BA5CC988DA4F9E8E1B5.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01.umap'
+[2019.09.04-16.06.41:050][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_01_BuiltData" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01_BuiltData.uasset" SILENT=true
+[2019.09.04-16.06.41:558][703]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Map_01_BuiltDataB31337E54C83747E89A3CF9ED4C776EA.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01_BuiltData.uasset'
+[2019.09.04-16.06.45:447][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Bomerman" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/Bomerman.uasset" SILENT=true
+[2019.09.04-16.06.45:510][842]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Bomerman2833B7304EC5446F305723A8C8D7E2D6.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/Bomerman.uasset'
+[2019.09.04-16.06.49:173][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.06.49:174][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.06.49:227][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.06.49:228][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.06.49:286][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.06.49:411][978]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.09.04-16.06.55:358][211]MapCheck: New page: Map Check
+[2019.09.04-16.06.55:389][211]LightingResults: New page: Lighting Build - Sep 5, 2019, 3:06:55 AM
+[2019.09.04-16.06.55:556][211]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.09.04-16.06.55:562][211]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.09.04-16.06.55:586][211]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.09.04-16.06.55:598][211]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.09.04-16.06.55:598][211]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6972
+[2019.09.04-16.07.00:306][211]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.09.04-16.07.00:307][211]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.09.04-16.07.00:307][211]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.09.04-16.07.00:307][211]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.09.04-16.07.00:307][211]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.09.04-16.07.00:619][211]LogEditorBuildUtils: Build time 0:05
+[2019.09.04-16.07.18:207][793]Job is a success!
+[2019.09.04-16.07.18:347][794]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2019.09.04-16.07.18:348][794]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.09.04-16.07.18:348][794]LogVolumetricLightmapImport:      BrickData 145x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.09.04-16.07.18:348][794]LogVolumetricLightmapImport:      Bricks at Level
+[2019.09.04-16.07.18:349][794]LogVolumetricLightmapImport:          0: 3.4% covering 100.0% of volume
+[2019.09.04-16.07.18:349][794]LogVolumetricLightmapImport:          1: 13.8% covering 6.3% of volume
+[2019.09.04-16.07.18:349][794]LogVolumetricLightmapImport:          2: 82.8% covering 0.6% of volume
+[2019.09.04-16.07.19:576][794]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.09.04-16.07.19:576][794]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.09.04-16.07.19:577][794]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.09.04-16.07.19:577][794]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.09.04-16.07.19:577][794]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.09.04-16.07.19:578][794]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.09.04-16.07.19:855][794]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.09.04-16.07.19:855][794]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X256)
+[2019.09.04-16.07.19:940][794]LogStaticLightingSystem: Illumination: 24.5 sec (1.14 sec encoding lightmaps, 269 ms encoding shadowmaps)
+[2019.09.04-16.07.19:941][794]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.09.04-16.07.19:942][794]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.09.04-16.07.20:320][794]DumpUnbuiltLightIteractions
+[2019.09.04-16.07.20:320][794]Lights with unbuilt interactions: 0
+[2019.09.04-16.07.20:320][794]
+[2019.09.04-16.07.20:320][794]Primitives with unbuilt interactions: 0
+[2019.09.04-16.07.20:471][795]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.09.04-16.07.20:471][795]MapCheck: New page: Map_01 - Sep 5, 2019, 3:07:20 AM
+[2019.09.04-16.07.20:505][795]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.643ms to complete.
+[2019.09.04-16.07.24:660][ 34]BlueprintLog: New page: Compile AI_Player_01
+[2019.09.04-16.07.27:339][106]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.07.27:364][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.07.27:365][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.07.27:365][106]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:07:27 AM)
+[2019.09.04-16.07.27:366][106]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.07.27:410][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044413s)
+[2019.09.04-16.07.27:411][106]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.07.27:412][106]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2019.09.04-16.07.27:412][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.046893s)
+[2019.09.04-16.07.27:469][106]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.07.27:496][106]LogInit: FAudioDevice initialized.
+[2019.09.04-16.07.27:526][106]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.07.27:531][106]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.37.27
+[2019.09.04-16.07.27:532][106]LogWorld: Bringing up level for play took: 0.004968
+[2019.09.04-16.07.27:547][106]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 -0.758
+[2019.09.04-16.07.27:547][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.07.35:245][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.07.35:246][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.07.35:319][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.07.35:320][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.07.35:375][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.07.35:419][380]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.09.04-16.07.37:573][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.07.48:156][906]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.07.56:215][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.04-16.07.56:247][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.07.56:248][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.04-16.07.56:248][224]PIE: New page: PIE session: Map_01 (Sep 5, 2019, 3:07:56 AM)
+[2019.09.04-16.07.56:248][224]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_01
+[2019.09.04-16.07.56:302][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053400s)
+[2019.09.04-16.07.56:305][224]LogAIModule: Creating AISystem for world Map_01
+[2019.09.04-16.07.56:305][224]LogPlayLevel: PIE: World Init took: (0.001668s)
+[2019.09.04-16.07.56:306][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_01.Map_01 to /Game/UEDPIE_0_Map_01.Map_01 (0.057342s)
+[2019.09.04-16.07.56:363][224]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-16.07.56:387][224]LogInit: FAudioDevice initialized.
+[2019.09.04-16.07.56:418][224]LogLoad: Game class is 'BOMBERMANGameMode'
+[2019.09.04-16.07.56:424][224]LogWorld: Bringing World /Game/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2019.09.04-21.37.56
+[2019.09.04-16.07.56:425][224]LogWorld: Bringing up level for play took: 0.005585
+[2019.09.04-16.07.56:438][224]PIE: Play in editor start time for /Game/UEDPIE_0_Map_01 0.132
+[2019.09.04-16.07.56:439][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.08.34:198][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.08.34:201][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.08.34:265][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.04-16.08.34:266][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Map_01.Map_01:PersistentLevel.Map_01'
+[2019.09.04-16.08.34:311][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-16.08.34:363][548]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.09.04-16.08.35:659][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.08.35:857][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_01" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.04-16.08.36:755][585]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Map_01BCC605D24EEB53BE4C2855ACCAF3445F.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01.umap'
+[2019.09.04-16.08.36:840][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_01_BuiltData" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01_BuiltData.uasset" SILENT=true
+[2019.09.04-16.08.37:454][585]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Map_01_BuiltData6E0699374390DCA0A27240A604D2EE6A.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01_BuiltData.uasset'
+[2019.09.04-16.08.40:941][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/AI_Player_01" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/AI_Player_01.uasset" SILENT=true
+[2019.09.04-16.08.40:993][717]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/AI_Player_01107B7682476C1A8B01EE56B7170E5C33.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/AI_Player_01.uasset'
+[2019.09.04-16.08.42:820][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Bomerman" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/Bomerman.uasset" SILENT=true
+[2019.09.04-16.08.42:891][792]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Bomerman80DDD74C439042DE3D472890B5C4611B.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/Bomerman.uasset'
+[2019.09.04-16.09.26:177][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-16.09.26:540][851]BlueprintLog: New page: Compile Bomerman
+[2019.09.04-16.09.45:685][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_01" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.04-16.09.46:475][307]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Map_01AD25A38A473A174964A3D7A515524D17.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/Map_01.umap'
+[2019.09.04-16.09.46:553][307]LogFileHelpers: Saving map 'Map_01' took 0.867
+[2019.09.04-16.09.46:609][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCPP/Blueprints/Bomerman" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/Bomerman.uasset" SILENT=true
+[2019.09.04-16.09.46:667][307]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Bomerman89DAFDE7432ADA46B46F08B7F9FD711F.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/ThirdPersonCPP/Blueprints/Bomerman.uasset'
+[2019.09.04-16.09.46:677][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Tech_Hex_Tile" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" SILENT=true
+[2019.09.04-16.09.46:793][307]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/M_Tech_Hex_TileDC8EF1D348893FB8467255B25141A9F4.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset'
+[2019.09.04-16.09.46:900][307]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/M_Tech_Hex_Tile_Pulse09CB2EDA4A07276E6F16C1B002A8E85B.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset'
+[2019.09.04-16.09.46:937][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Hex_red" FILE="F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/StarterContent/Materials/Hex_red.uasset" SILENT=true
+[2019.09.04-16.09.46:984][307]LogSavePackage: Moving 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Saved/Hex_redAF572A4D47D577099F3B578C818644FF.tmp' to 'F:/UTKARSH/UNREAL PROJECTS/Bomberman/BOMBERMAN/Content/StarterContent/Materials/Hex_red.uasset'
